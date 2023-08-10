@@ -13,4 +13,6 @@ By automating the billing details filling during the checkout process, the frame
 
 In conclusion, the Ecommerce Automation Framework I have created using Selenium, Java, Cucumber, and JUnit represents a significant advancement in the realm of automated testing. It addresses critical aspects of the Ecommerce journey, from user registration to product selection and checkout, while adhering to best practices and ensuring a seamless experience for both users and stakeholders.
 
- GIF to showcase your Ecommerce Automation Framework![Ecommerce_Automation_Testing_Framework](https://github.com/techshubhamsharma/Ecommerce_Lambda_Test/assets/136896316/1b1db991-9959-47fc-b9ab-6d734a249104)
+ GIF to showcase your Ecommerce Automation Framework
+ ![Ecommerce_Automation_Testing_Framework](https://github.com/techshubhamsharma/Ecommerce_Lambda_Test/assets/136896316/ea4cf4d3-bbb5-4e82-bc25-b7c80ca20e2e)
+
